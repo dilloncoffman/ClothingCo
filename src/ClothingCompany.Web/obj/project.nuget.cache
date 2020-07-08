@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qa8qsYDPeMCbZ6I3v29WGgaa9pPFaTijw83wK568PtolO7tz6MPCqNSGLr6DeeY/3STZg2NV8HYtXp4XEw1tSg==",
+  "dgSpecHash": "r6CuV5lOGAGZeCluUgPatr4RqTAnJ5M4EbrXOjvWQ1b3JU78jzLVG8pSgGoo00MUSwn8WHZZnU/OBbE0XOyLTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj",
+  "projectFilePath": "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcoffman\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
     "C:\\Users\\dcoffman\\.nuget\\packages\\enterpriselibrary.common\\6.0.1304\\enterpriselibrary.common.6.0.1304.nupkg.sha512",

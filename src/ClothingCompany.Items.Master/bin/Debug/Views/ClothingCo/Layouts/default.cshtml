@@ -2,7 +2,8 @@
 @using Sitecore.Mvc.Presentation
 @model RenderingModel
 @{
-  Layout = null;
+    Layout = null;
+    var itemObject = Sitecore.Context.Database.GetItem("/sitecore/content/Home");
 }
 <!DOCTYPE html>
 <html>
@@ -18,7 +19,10 @@
 </head>
 
 <body>
-    <h1>@Html.Sitecore().Field("Page Title", new { DisableWebEdit = true })</h1>
+    <h1 class="title">@Html.Sitecore().Field("Page Title", itemObject, new { DisableWebEdit = true })</h1>
+    <div>
+        <p>@Html.Sitecore().Field("Primary Image", new { mh = "200" } )</p>
+    </div>
     <div>
         @Html.Sitecore().Placeholder("main")
     </div>

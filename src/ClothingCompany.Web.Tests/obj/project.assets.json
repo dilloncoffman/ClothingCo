@@ -747,15 +747,15 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web.Tests\\ClothingCompany.Web.Tests.csproj",
+      "projectUniqueName": "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web.Tests\\ClothingCompany.Web.Tests.csproj",
       "projectName": "ClothingCompany.Web.Tests",
-      "projectPath": "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web.Tests\\ClothingCompany.Web.Tests.csproj",
+      "projectPath": "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web.Tests\\ClothingCompany.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\dcoffman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web.Tests\\obj\\",
+      "outputPath": "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\NuGet.Config",
+        "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\NuGet.Config",
         "C:\\Users\\dcoffman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

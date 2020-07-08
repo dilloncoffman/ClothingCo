@@ -57,6 +57,9 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\FooterController.cs" />
+    <Compile Include="Models\NavGroup.cs" />
+    <Compile Include="Models\NavItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -64,6 +67,8 @@
     <Content Include="Project\css\custom.css" />
     <Content Include="Project\js\clothingco-script.js" />
     <Content Include="Views\ClothingCo\Layouts\default.cshtml" />
+    <Content Include="Views\Basic Components\Banner.cshtml" />
+    <Content Include="Views\Footer\Index.cshtml" />
     <None Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -78,10 +83,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

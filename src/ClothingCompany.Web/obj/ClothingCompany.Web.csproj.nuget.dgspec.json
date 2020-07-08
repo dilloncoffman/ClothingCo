@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj": {}
+    "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj": {
+    "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj",
+        "projectUniqueName": "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj",
         "projectName": "ClothingCompany.Web",
-        "projectPath": "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj",
+        "projectPath": "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web\\ClothingCompany.Web.csproj",
         "packagesPath": "C:\\Users\\dcoffman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web\\obj\\",
+        "outputPath": "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\NuGet.Config",
+          "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\NuGet.Config",
           "C:\\Users\\dcoffman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

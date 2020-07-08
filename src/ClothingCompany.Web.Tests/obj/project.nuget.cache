@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/2KzfUtV2MaGjcEyiJpCRNO+fn6TDvAhhgDp8gyDB9HXHZ5DIJctyIYmTfTrLlZT3ZWdg7eS6rO7Xdo2z1pXDw==",
+  "dgSpecHash": "isltEQ/gS/tigDKK2TOAKr37INpAhrRNf4jNvzhqiUplUZTl8tbjS1774xkU3Vm0BYlfcnPMg+upTa3XeYVbdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dcoffman\\Downloads\\Dev03-Clothing Company-FileSet2\\src\\ClothingCompany.Web.Tests\\ClothingCompany.Web.Tests.csproj",
+  "projectFilePath": "C:\\Sitecore Installs\\VisualStudioProjects\\WorkingClothingCompanyDir\\src\\ClothingCompany.Web.Tests\\ClothingCompany.Web.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcoffman\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\dcoffman\\.nuget\\packages\\moq\\4.10.1\\moq.4.10.1.nupkg.sha512",
