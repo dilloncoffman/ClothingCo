@@ -1,0 +1,56 @@
+---
+ID: "55c260f4-f1c7-4ccf-81ed-849f72e44462"
+Parent: "2ec0898e-07dd-4073-93b8-47ff785bd49c"
+Template: "06eef10f-df02-4daf-b4c2-d17b22f08a40"
+Path: /sitecore/content/Home/Resources/About Us
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T201546Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "72a2ea00-89ac-4048-a576-bf446ee5d58f"
+      Hint: Primary Image
+      Value: |
+        <image mediaid="{F75B08FA-5E6A-4ECD-8795-FD774AC60B63}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ad28d7d-19e0-48a2-be09-ea589bf03a3c"
+    - ID: "b7cbec9a-d1d9-4a26-bbd8-aada9ecd4260"
+      Hint: Primary Content Text
+      Value: |
+        <p>The Clothing Company was founded in 2020 by a team of individuals passionate about the clothes they wore and wanted to share their knowledge with the world. Each team member is based remotely around the United States.</p>
+        <p style="color: #000000; background-color: #ffffff; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify;">Praesent lobortis nibh turpis, nec dapibus purus venenatis sit amet. Proin eget lacus augue. Nullam vel tellus vitae augue pharetra consectetur non vitae enim. Suspendisse quis rutrum tortor. Praesent eu gravida massa. Nulla eros justo, feugiat auctor ex ut, dictum vehicula mauris. Nunc condimentum mi euismod tincidunt molestie. Integer eget tristique mi, id placerat leo. Aliquam pulvinar erat vitae metus accumsan, euismod posuere sem tincidunt. Suspendisse sed lobortis massa, id lacinia nibh. Maecenas hendrerit non lacus ac sodales. Praesent auctor maximus neque eu facilisis. Donec sit amet nibh vitae ligula gravida commodo sit amet et quam. </p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Aliquam feugiat a arcu vitae placerat. Praesent turpis diam, mollis non turpis pellentesque, dapibus pellentesque nulla. Nam scelerisque, orci id consequat bibendum, nulla nunc pretium turpis, sed mattis dui metus in enim. Maecenas sollicitudin consequat magna, sit amet rhoncus sapien viverra vel. Ut at tempus urna. Sed id mauris ultrices, bibendum lorem non, venenatis augue. Sed a efficitur arcu. Sed leo augue, scelerisque at maximus vel, vehicula aliquet erat. </p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Donec elementum cursus nisl, id sodales metus sagittis et. Aliquam id justo ac eros fringilla vehicula. Duis ut libero arcu. Sed maximus tincidunt mauris, sed ultricies eros molestie vel. Cras ac maximus turpis. Mauris quis urna consectetur, blandit erat et, pharetra magna. Fusce fringilla imperdiet tellus, vitae suscipit augue dignissim non. Vivamus iaculis accumsan euismod. Pellentesque dignissim nisl nec erat elementum, luctus vestibulum dolor faucibus. Vivamus volutpat a lectus vel hendrerit. </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c56a969a-2ae1-44a9-8e9c-1b524a4df281"
+      Hint: Page Title
+      Value: About Us
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200508T171709Z
+    - ID: "ef80a450-a360-4779-9331-ddd856afa6ea"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{19671DEC-64FA-447E-92D8-9D1FB10ED117}" alt="The Clothing Company Banner" height="" width="" hspace="" vspace="" ></image>
+    - ID: "f9d8a94d-3130-4225-b010-2d9d6c7be8f8"
+      Hint: Subtitle
+      Value: How The Clothing Company came to be.

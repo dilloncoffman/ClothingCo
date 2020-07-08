@@ -1,0 +1,16 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="https://ClothingCosc.dev.local" UserName="sitecore\admin" IsRemoteSitecore="True" />
+  </PropertyGroup>
+  <File Include="/Views/ClothingCo/Layouts/default.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{98647852-3A0C-46DC-8C08-A142113ADEC6}</Item>
+    <Item DatabaseName="master">{C73C325E-7D63-45A1-ACD5-C67227313D03}</Item>
+    <Item DatabaseName="master">{5B04A876-91DC-4235-835C-7838A664B202}</Item>
+    <Item DatabaseName="master">{82249979-B43C-4FAB-89F2-B48CFBF2C76E}</Item>
+  </File>
+  <File Include="Views\ClothingCo\Layouts\default.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+  <File Include="Views\Basic Components\PrimaryText.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+  <File Include="/Views/Basic Components/PrimaryText.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{7B46C9B7-2420-42A2-B7AD-66BCBEF34CC3}</Item>
+  </File>
+</Project>

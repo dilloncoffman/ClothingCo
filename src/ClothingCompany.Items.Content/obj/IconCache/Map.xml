@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/content" ItemIcon="/temp/IconCache/People/16x16/cubes_blue.png" />
+  <Item ItemPath="/sitecore/media library" ItemIcon="/temp/IconCache/Applications/16x16/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Basic Company" ItemIcon="/~/icon/office/32x32/office_building.png" />
+  <Item ItemPath="/sitecore/content/Basic Company/Dictionary" ItemIcon="/temp/IconCache/Office/16x16/dictionary.png" />
+  <Item ItemPath="/sitecore/content/Basic Company/Shared Content" ItemIcon="/~/icon/office/32x32/folder_shared.png" />
+  <Item ItemPath="/sitecore/media library/Basic Company/faq-1" ItemIcon="/temp/IconCache/-/media/2958CD123CF74E77BD9C1F32F54ED597.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/helix logo" ItemIcon="/temp/IconCache/-/media/F6436C9D280340F8B5EB4C8D65E62253.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/hero home" ItemIcon="/temp/IconCache/-/media/AB1185E2AA434E7BADBE146E89A828D5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/hero-products" ItemIcon="/temp/IconCache/-/media/5620882AB7B543E6ACA0FDB0E18C6480.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/product" ItemIcon="/temp/IconCache/-/media/D8B7E3363EF649389E1A8FE8BFEDB0FB.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/promo-card-1" ItemIcon="/temp/IconCache/-/media/9A3A5570D8D4455CA14622309193DBFE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/promo-card-2" ItemIcon="/temp/IconCache/-/media/A1B77366A2214644B6A2CE5FCB50E293.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/promo-card-3" ItemIcon="/temp/IconCache/-/media/9B83904EC9BE4D9884BEA58A2370A510.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/promo-card-4" ItemIcon="/temp/IconCache/-/media/23AD87CFD67645BBB367B2D1FFC6FA87.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/promo-card-5" ItemIcon="/temp/IconCache/-/media/2B2499FA31EE4EF196E48A02A05FAFBB.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/testimonial-1" ItemIcon="/temp/IconCache/-/media/7AC075BF7FCE43A09CAB66746D18383D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Basic Company/testimonial-2" ItemIcon="/temp/IconCache/-/media/ABC252E420F4424A9466AD6A296DBEDD.ashx?h=16&amp;thn=1&amp;w=16" />
+</ItemIconCache>

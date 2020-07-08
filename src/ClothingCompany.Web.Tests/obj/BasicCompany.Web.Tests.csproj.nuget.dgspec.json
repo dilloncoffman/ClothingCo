@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web.Tests\\BasicCompany.Web.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web.Tests\\BasicCompany.Web.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web.Tests\\BasicCompany.Web.Tests.csproj",
+        "projectName": "BasicCompany.Web.Tests",
+        "projectPath": "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web.Tests\\BasicCompany.Web.Tests.csproj",
+        "packagesPath": "C:\\Users\\LEDTeam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\NuGet.Config",
+          "C:\\Users\\LEDTeam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web\\BasicCompany.Web.csproj": {
+                "projectPath": "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web\\BasicCompany.Web.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.10.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web\\BasicCompany.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web\\BasicCompany.Web.csproj",
+        "projectName": "BasicCompany.Web",
+        "projectPath": "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web\\BasicCompany.Web.csproj",
+        "packagesPath": "C:\\Users\\LEDTeam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\src\\BasicCompany.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\LEDTeam\\Downloads\\Helix.Examples-master\\Helix.Examples-master\\examples\\helix-basic-tds-consolidated\\NuGet.Config",
+          "C:\\Users\\LEDTeam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "HedgehogDevelopment.FxCop.Helix": {
+              "target": "Package",
+              "version": "[1.0.0.7, )"
+            },
+            "Sitecore.ContentSearch": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Sitecore.ContentSearch.Linq": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Sitecore.Kernel": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Sitecore.Mvc": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

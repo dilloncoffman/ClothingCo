@@ -1,0 +1,59 @@
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.abstractions.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.dll.config
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.pdb
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\Castle.Core.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\Moq.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\Moq.pdb
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.assert.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.core.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.csprojAssemblyReference.cache
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.csproj.CopyComplete
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.dll.config
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\Castle.Core.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\Moq.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\Moq.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.assert.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.core.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.csprojAssemblyReference.cache
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.csproj.CopyComplete
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.dll.config
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\ClothingCompany.Web.Tests.pdb
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\Castle.Core.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\Moq.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\Moq.pdb
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\xunit.assert.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\xunit.core.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.csprojAssemblyReference.cache
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.csproj.CopyComplete
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web.Tests\obj\Debug\ClothingCompany.Web.Tests.pdb

@@ -1,0 +1,35 @@
+---
+ID: "b7f2dc51-3e32-4727-97a5-b44f6a594585"
+Parent: "2ec0898e-07dd-4073-93b8-47ff785bd49c"
+Template: "06eef10f-df02-4daf-b4c2-d17b22f08a40"
+Path: /sitecore/content/Home/Resources/Careers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T201603Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69702f73-70dc-43f7-8914-0231d79925f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c56a969a-2ae1-44a9-8e9c-1b524a4df281"
+      Hint: Page Title
+      Value: Careers
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200326T201603Z

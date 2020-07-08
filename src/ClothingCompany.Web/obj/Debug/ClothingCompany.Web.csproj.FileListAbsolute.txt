@@ -1,0 +1,182 @@
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\ClothingCompany.Web.dll.config
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\ClothingCompany.Web.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\ClothingCompany.Web.pdb
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\DocumentFormat.OpenXml.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\HtmlAgilityPack.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\HtmlAgilityPack.pdb
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Lucene.Net.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Lucene.Net.pdb
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Mvc.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Razor.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Net.Http.Formatting.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Http.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Http.WebHost.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Helpers.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.WebPages.Razor.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.WebPages.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Mvp.Xml.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Newtonsoft.Json.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\PdfSharp.Charting.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\PdfSharp.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\de\PdfSharp.Charting.resources.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\de\PdfSharp.resources.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\RazorGenerator.Mvc.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Abstractions.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Annotations.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.ContentExtraction.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.Data.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.Linq.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Kernel.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Logging.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Logging.Client.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Mvc.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Nexus.Consumption.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Nexus.Licensing.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.NVelocity.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Web.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Zip.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.IO.Packaging.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Security.AccessControl.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Security.Cryptography.Xml.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Security.Permissions.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\System.Security.Principal.Windows.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\bin\WebActivatorEx.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.csprojAssemblyReference.cache
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.csproj.CopyComplete
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.dll
+C:\Dev\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\ClothingCompany.Web.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\ClothingCompany.Web.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\DocumentFormat.OpenXml.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\HtmlAgilityPack.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\HtmlAgilityPack.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Lucene.Net.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Lucene.Net.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Mvc.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Razor.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Http.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.Helpers.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Web.WebPages.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Mvp.Xml.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Newtonsoft.Json.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\PdfSharp.Charting.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\PdfSharp.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\de\PdfSharp.resources.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\RazorGenerator.Mvc.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Abstractions.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Annotations.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.ContentExtraction.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.Data.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.Linq.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Kernel.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Logging.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Logging.Client.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Mvc.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Nexus.Consumption.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Nexus.Licensing.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.NVelocity.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Web.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\Sitecore.Zip.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.IO.Packaging.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Security.AccessControl.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Security.Cryptography.Xml.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Security.Permissions.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\System.Security.Principal.Windows.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\WebActivatorEx.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.csproj.CopyComplete
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.dll
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.pdb
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\bin\ClothingCompany.Web.dll.config
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.csprojAssemblyReference.cache
+C:\Users\LEDTeam\Desktop\ClothingCompany\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.csproj.CoreCompileInputs.cache
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\ClothingCompany.Web.dll.config
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\ClothingCompany.Web.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\ClothingCompany.Web.pdb
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\DocumentFormat.OpenXml.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\HtmlAgilityPack.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\HtmlAgilityPack.pdb
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Lucene.Net.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Lucene.Net.pdb
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Web.Mvc.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Web.Razor.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Web.Http.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Web.Helpers.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Web.WebPages.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Mvp.Xml.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Newtonsoft.Json.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\PdfSharp.Charting.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\PdfSharp.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\de\PdfSharp.resources.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\RazorGenerator.Mvc.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Abstractions.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Annotations.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.ContentExtraction.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.Data.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.ContentSearch.Linq.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Kernel.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Logging.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Logging.Client.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Mvc.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Nexus.Consumption.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Nexus.Licensing.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.NVelocity.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Web.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\Sitecore.Zip.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.IO.Packaging.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Security.AccessControl.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Security.Cryptography.Xml.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Security.Permissions.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\System.Security.Principal.Windows.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\bin\WebActivatorEx.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.csprojAssemblyReference.cache
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.csproj.CoreCompileInputs.cache
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.csproj.CopyComplete
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.dll
+C:\Users\dcoffman\Downloads\Dev03-Clothing Company-FileSet2\src\ClothingCompany.Web\obj\Debug\ClothingCompany.Web.pdb

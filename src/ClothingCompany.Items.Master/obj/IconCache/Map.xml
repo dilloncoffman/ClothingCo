@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/layout" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/system" ItemIcon="/temp/IconCache/People/16x16/workstation1.png" />
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/layout/Layouts" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/layout/Renderings" ItemIcon="/temp/IconCache/Software/16x16/elements1.png" />
+  <Item ItemPath="/sitecore/layout/Layouts/Project" ItemIcon="/temp/IconCache/applications/32x32/folder_window.png" />
+  <Item ItemPath="/sitecore/layout/Placeholder Settings/Project" ItemIcon="/temp/IconCache/applications/32x32/folder_window.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature" ItemIcon="/temp/IconCache/applications/32x32/folder_cubes.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Project" ItemIcon="/temp/IconCache/applications/32x32/folder_window.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/BasicContent/Accordion" ItemIcon="/temp/IconCache/Office/16x16/barrel.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/BasicContent/Accordion Item" ItemIcon="/temp/IconCache/Office/16x16/navigate_down.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/BasicContent/Hero Banner" ItemIcon="/temp/IconCache/Office/16x16/map.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/BasicContent/Promo Card" ItemIcon="/temp/IconCache/Office/16x16/star.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/BasicContent/Promo Container" ItemIcon="/temp/IconCache/Office/16x16/window_star.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/BasicContent/Section Header" ItemIcon="/temp/IconCache/Office/16x16/document_orientation_landscape.png" />
+  <Item ItemPath="/sitecore/templates/Branches" ItemIcon="/temp/IconCache/Software/16x16/component.png" />
+  <Item ItemPath="/sitecore/templates/Feature" ItemIcon="/temp/IconCache/applications/32x32/folder_cubes.png" />
+  <Item ItemPath="/sitecore/templates/Foundation" ItemIcon="/temp/IconCache/applications/32x32/folder_gear.png" />
+  <Item ItemPath="/sitecore/templates/Project" ItemIcon="/temp/IconCache/applications/32x32/folder_window.png" />
+  <Item ItemPath="/sitecore/system/Settings" ItemIcon="/temp/IconCache/Applications/16x16/preferences.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules" ItemIcon="/temp/IconCache/Core2/32x32/properties_h.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Project" ItemIcon="/temp/IconCache/applications/32x32/folder_window.png" />
+  <Item ItemPath="/sitecore/templates/Feature/BasicContent/Accordion Item" ItemIcon="/temp/IconCache/Office/32x32/navigate_down.png" />
+  <Item ItemPath="/sitecore/templates/Feature/BasicContent/Accordion Item Folder" ItemIcon="/temp/IconCache/Office/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Feature/BasicContent/Hero Banner" ItemIcon="/temp/IconCache/Office/16x16/map.png" />
+  <Item ItemPath="/sitecore/templates/Feature/BasicContent/Hero Banner Folder" ItemIcon="/temp/IconCache/Office/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Feature/BasicContent/Promo Card" ItemIcon="/temp/IconCache/Office/32x32/star.png" />
+  <Item ItemPath="/sitecore/templates/Feature/BasicContent/Promo Card Folder" ItemIcon="/~/icon/office/32x32/folder.png" />
+  <Item ItemPath="/sitecore/templates/Feature/BasicContent/Section Header" ItemIcon="/temp/IconCache/Office/16x16/document_orientation_landscape.png" />
+  <Item ItemPath="/sitecore/templates/Feature/BasicContent/Section Header Folder" ItemIcon="/~/icon/office/32x32/folder.png" />
+  <Item ItemPath="/sitecore/templates/Foundation/Multisite/Site" ItemIcon="/temp/IconCache/Office/16x16/office_building.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Banner" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_BaseTemplate" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Author Details/Author Details" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Review-Blog Page/Details" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Banner/Banner Details" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_BaseTemplate/Main Content" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Author Details/Author Details/Author Name" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Author Details/Author Details/Author Bio" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_BaseTemplate/Main Content/Page Title" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_BaseTemplate/Main Content/Subtitle" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_BaseTemplate/Main Content/Primary Image" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Image Bank/Images/Image 1" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Image Bank/Images/Image 2" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Image Bank/Images/Image 3" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Image Bank/Images/Image 4" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Image Bank/Images/Image 5" ItemIcon="/-/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Image Bank" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Banner/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/layout/Placeholder Settings" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Insert Options" ItemIcon="/-/icon/software/32x32/elements_selection.png.aspx" />
+  <Item ItemPath="/sitecore/system/Settings/Rules/Insert Options/Rules" ItemIcon="/-/icon/software/32x32/element_run.png.aspx" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_BaseTemplate/Main Content/Primary Content Text" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Author Details/Author Details/Author Photo" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Capsule Wardrobe Page/__Standard Values" ItemIcon="/temp/iconcache/business/16x16/shoppingbasket.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Review-Blog Page/Details/Overflow Text" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Author Details" ItemIcon="/temp/IconCache/Applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Capsule Wardrobe Page" ItemIcon="/temp/IconCache/Business/16x16/shoppingbasket.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Review-Blog Page" ItemIcon="/temp/IconCache/Applications/16x16/edit.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Foundation" ItemIcon="/temp/IconCache/applications/32x32/folder_gear.png" />
+  <Item ItemPath="/sitecore/layout/Layouts/Project/default" ItemIcon="/temp/iconcache/applications/32x32/window.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/Article Listing" ItemIcon="/temp/iconcache/software/16x16/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/Banner" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/ContentSearch" ItemIcon="/temp/iconcache/software/16x16/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/Image Gallery" ItemIcon="/temp/iconcache/software/16x16/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/Listing" ItemIcon="/temp/iconcache/software/16x16/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/OverflowText" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/PrimaryImage" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/PrimaryText" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Foundation/header" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Foundation/Navigation" ItemIcon="/temp/iconcache/software/16x16/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Foundation/one-column" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Foundation/three-column" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Foundation/two-column" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Capsule Wardrobe Page/Product Reviews" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Capsule Wardrobe Page/Product Reviews/ReviewLink" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Image Bank/Images" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Rendering Parameter Templates" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Rendering Parameter Templates/ParametersTemplate_Banner" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Rendering Parameter Templates/ParametersTemplate_Banner/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Rendering Parameter Templates/ParametersTemplate_Banner/Styles" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Rendering Parameter Templates/ParametersTemplate_Banner/Styles/Bg-Color" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_Banner/Banner Details/Banner Image" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/_BaseTemplate/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Author Details/__Standard Values" ItemIcon="/temp/iconcache/applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Review-Blog Page/Details/Author" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Review-Blog Page/Details/Date Time" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content" ItemIcon="/temp/IconCache/People/16x16/cubes_blue.png" />
+  <Item ItemPath="/sitecore/media library" ItemIcon="/temp/IconCache/Applications/16x16/photo_scenery.png" />
+  <Item ItemPath="/sitecore/media library/Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Authors" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Image Banks" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Images/Authors" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Images/Blog Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Images/Capsule Wardrobe" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Images/ClothingCo-PrimaryImg" ItemIcon="/sitecore/shell/themes/standard/-/media/F75B08FA5E6A4ECD8795FD774AC60B63.ashx?h=16&amp;thn=1&amp;w=16&amp;db=master" />
+  <Item ItemPath="/sitecore/content/Home/Blog Posts" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Fashion Reviews" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Resources" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Home/Blog Posts/How to Look Expensive on a Budget" ItemIcon="/temp/iconcache/applications/16x16/edit.png" />
+  <Item ItemPath="/sitecore/content/Home/Blog Posts/How to Make Your Clothes Last Longer" ItemIcon="/temp/iconcache/applications/16x16/edit.png" />
+  <Item ItemPath="/sitecore/content/Home/Blog Posts/How to Shop Your Own Wardrobe" ItemIcon="/temp/iconcache/applications/16x16/edit.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Capsule Wardrobes - This Year" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Content Page 9" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Fall" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Fall Capsule Wardrobe 2019" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Fall Capsule Wardrobe 2020" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Spring" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Spring Capsule Wardrobe 2019" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Spring Capsule Wardrobe 2020" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Summer" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Summer Capsule Wardrobe 2019" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Summer Capsule Wardrobe 2020" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Winter" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Winter Capsule Wardrobe 2019" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Winter Capsule Wardrobe 2020" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Fashion Reviews/Accessories" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Fashion Reviews/Mens" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Fashion Reviews/Womens" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Resources/Careers" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Resources/Contact Us" ItemIcon="/temp/iconcache/applications/16x16/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Fall/2019 Fall Capsule Wardrobe" ItemIcon="/temp/iconcache/business/16x16/shoppingbasket.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/antiquewhite" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/azure" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/blanchedalmond" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/darkseagreen" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/ivory" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/lavenderblush" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/lightblue" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/mediumaquamarine" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/oldlace" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/seaschell" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Home/Fashion Review/Accessories" ItemIcon="/temp/iconcache/applications/32x32/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Fashion Review/Mens" ItemIcon="/temp/iconcache/applications/32x32/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Fashion Review/Womens" ItemIcon="/temp/iconcache/applications/32x32/form_red.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/Article" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/HorizListing" ItemIcon="/temp/iconcache/software/16x16/element.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/ListingController" ItemIcon="/temp/iconcache/software/16x16/element.png" />
+  <Item ItemPath="/sitecore/media library/Images/Authors/James" ItemIcon="/temp/IconCache/-/media/188A8E2CBB644377BDC327AFF0961FB9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Authors/Jennifer" ItemIcon="/temp/IconCache/-/media/8DF1631869864D5F8246FABBD25A6FDC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Authors/Karen" ItemIcon="/temp/IconCache/-/media/87F0CEA4469F43EB9F424559C9858B62.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Accessories Banner" ItemIcon="/temp/IconCache/-/media/0560D1C408A340D1B54BBAA138952D41.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Capsule-Banner" ItemIcon="/temp/IconCache/-/media/019252E075AD4A69BA1D7071EE8D71ED.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Fall-Banner" ItemIcon="/temp/IconCache/-/media/1B371608DA2049EBAFE1927BFCB7B877.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/HowToLookExpensiveOnABudget_Banner" ItemIcon="/temp/IconCache/-/media/778C9DA2B7E6433AB5C791B93F920285.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/HowToMakeYourClothesLastLonger_Banner" ItemIcon="/temp/IconCache/-/media/C4B646AC3FCA42C09D5F5ED968621B01.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/HowToShopYourOwnWardrobe_Banner" ItemIcon="/temp/IconCache/-/media/D42CAF2AC05C47E7ACA1E273E51BEB00.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Main Banner" ItemIcon="/temp/IconCache/-/media/19671DEC64FA447E92D89D1FB10ED117.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Mens Banner" ItemIcon="/temp/IconCache/-/media/4BAEA5502B1A4308A45917A6FFCD87C6.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Reviews Primary Banner" ItemIcon="/temp/IconCache/-/media/21B971B89DEF47AC961EB5E391017DFA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/SecondhandShoppingTips_Banner" ItemIcon="/temp/IconCache/-/media/7EE39D38F37D4F47913C7E4F12FB2FFD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Spring-Banner" ItemIcon="/temp/IconCache/-/media/B7982BF230494E8B9F73E6FE1A172365.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Summer-Banner" ItemIcon="/temp/IconCache/-/media/2957B6B06E8F4DD689ED70A93A4F63CD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Winter-Banner" ItemIcon="/temp/IconCache/-/media/2E82E05FC35449E48DA18E0A17B124AD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Winter-Banner-2" ItemIcon="/temp/IconCache/-/media/3DA56CB764054FDDA00880196DFF543D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/logo" ItemIcon="/temp/IconCache/-/media/1D884DD660E84D2DBD793DF474D292BC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Wardrobe Images/Fall-Jackets" ItemIcon="/temp/IconCache/-/media/987F3CBBC6CC46B9AF6038D567B12394.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Wardrobe Images/Winter-Jacket" ItemIcon="/temp/IconCache/-/media/D7BBC009062D4A69832D6AAE7D765659.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Wardrobe Images/Winter-Shoes" ItemIcon="/temp/IconCache/-/media/75EE3D7A2C3A4A19AE7B5BD9E28A9DF3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Wardrobe Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Authors/Karen" ItemIcon="/temp/iconcache/applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Image Banks/Fall Wardrobe Images" ItemIcon="/temp/iconcache/applications/16x16/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Rendering Parameters/Bg-Color/wheat" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Home/Resources/About Us" ItemIcon="/temp/iconcache/applications/32x32/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes/Fall/2019 Fall Wardrobe" ItemIcon="/temp/iconcache/business/16x16/shoppingbasket.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/Feature/Primary Text" ItemIcon="/temp/iconcache/software/32x32/element.png" />
+  <Item ItemPath="/sitecore/media library/Images/Authors/Nick" ItemIcon="/temp/IconCache/-/media/847E7A7787C74130B02FDB6CC6215696.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Banner Images/Womans Banner" ItemIcon="/temp/IconCache/-/media/C36C3E27713E47289761BB181A3572BE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Blog Images/HowToLookExpensiveOnABudget_Primary" ItemIcon="/temp/IconCache/-/media/A6349F5C0BB1409EAB0919BEE32C810F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Images/Review Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Images/Wardrobe Images/Winter-Sweater" ItemIcon="/temp/IconCache/-/media/36FA85BC5C1740EEB24A985BFDF44812.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Content Page" ItemIcon="/temp/IconCache/Applications/32x32/form_red.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Content Page/Base Items" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Content Page/Base Items/Logo" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Image Bank" ItemIcon="/temp/IconCache/Applications/16x16/photo_scenery.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Image Bank/__Standard Values" ItemIcon="/temp/iconcache/applications/16x16/photo_scenery.png" />
+  <Item ItemPath="/sitecore/templates/ClothingCo/Image Bank/Images/Images" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/layout/Placeholder Settings/main" ItemIcon="/temp/iconcache/business/16x16/table_selection_block.png" />
+  <Item ItemPath="/sitecore/content/Home" ItemIcon="/temp/iconcache/network/16x16/home.png" />
+  <Item ItemPath="/sitecore/content/Home/Capsule Wardrobes" ItemIcon="/temp/iconcache/applications/32x32/form_red.png" />
+  <Item ItemPath="/sitecore/content/Home/Fashion Review" ItemIcon="/temp/iconcache/applications/32x32/form_red.png" />
+</ItemIconCache>

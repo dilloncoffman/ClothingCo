@@ -1,0 +1,58 @@
+---
+ID: "ec6b4b2d-69c0-416e-850b-ec7ab79e7fdb"
+Parent: "4bc53ab7-0613-420f-bcb5-294799b59d04"
+Template: "06eef10f-df02-4daf-b4c2-d17b22f08a40"
+Path: /sitecore/content/Home/Capsule Wardrobes/Fall
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{3E07989F-4CA0-4074-849B-6D0042AD2D33}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fall Wardrobes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T201330Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "72a2ea00-89ac-4048-a576-bf446ee5d58f"
+      Hint: Primary Image
+      Value: |
+        <image mediaid="{DAFD3E9D-1C87-481E-AE81-786DC62700B2}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3653c2c9-f8f8-4feb-a69f-ccbff6ca6f57"
+    - ID: "b7cbec9a-d1d9-4a26-bbd8-aada9ecd4260"
+      Hint: Primary Content Text
+      Value: These are the Fall Capsule Wardrobe options.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c56a969a-2ae1-44a9-8e9c-1b524a4df281"
+      Hint: Page Title
+      Value: Fall
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200504T194507Z
+    - ID: "ef80a450-a360-4779-9331-ddd856afa6ea"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{1B371608-DA20-49EB-AFE1-927BFCB7B877}" />
+    - ID: "f9d8a94d-3130-4225-b010-2d9d6c7be8f8"
+      Hint: Subtitle
+      Value: Fall Capsule Wardrobe Options

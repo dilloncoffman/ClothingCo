@@ -1,0 +1,50 @@
+---
+ID: "80b26ec2-47d8-4c40-a087-4778ebc01789"
+Parent: "4bc53ab7-0613-420f-bcb5-294799b59d04"
+Template: "06eef10f-df02-4daf-b4c2-d17b22f08a40"
+Path: /sitecore/content/Home/Capsule Wardrobes/Spring
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{3E07989F-4CA0-4074-849B-6D0042AD2D33}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T201316Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "72a2ea00-89ac-4048-a576-bf446ee5d58f"
+      Hint: Primary Image
+      Value: |
+        <image mediaid="{1F2D880C-960D-459A-BF7A-7E9511710241}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a98f058-a86b-4ea4-876e-9b6c23b1abd2"
+    - ID: "b7cbec9a-d1d9-4a26-bbd8-aada9ecd4260"
+      Hint: Primary Content Text
+      Value: These are the Spring Capsule Wardrobe options.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c56a969a-2ae1-44a9-8e9c-1b524a4df281"
+      Hint: Page Title
+      Value: Spring
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200414T162609Z
+    - ID: "f9d8a94d-3130-4225-b010-2d9d6c7be8f8"
+      Hint: Subtitle
+      Value: Spring Capsule Wardrobe Options

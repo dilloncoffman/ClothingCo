@@ -1,0 +1,42 @@
+---
+ID: "77d3015b-6ce6-45c4-8cf5-b495b196c136"
+Parent: "78820eba-a06a-4b54-a3c2-b2f46c4482c5"
+Template: "dcab1d53-e94b-45e1-bdcf-650581c1c5bc"
+Path: /sitecore/content/Authors/Karen
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T114006Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6bc6177-adb7-46c1-93dc-b27d5cf2238d"
+    - ID: "a7b3c946-58d9-4828-ad71-e54edf9cf905"
+      Hint: Author Bio
+      Value: Karen's biography.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d3ee2f2e-c35a-4f8c-95e4-8d1f51452a99"
+      Hint: Author Name
+      Value: Karen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200330T114033Z
+    - ID: "faee9dc1-1e71-4fb0-94f3-47ba756b5aab"
+      Hint: Author Photo
+      Value: |
+        <image mediaid="{87F0CEA4-469F-43EB-9F42-4559C9858B62}" />

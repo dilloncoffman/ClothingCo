@@ -1,0 +1,24 @@
+---
+ID: "9d7eb365-3740-4ccd-9bc7-1ac56c550bfc"
+Parent: "3e07989f-4ca0-4074-849b-6d0042ad2d33"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/ClothingCo/Capsule Wardrobe Page/Product Reviews
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200415T220257Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b813248-00d6-4e17-85d1-8835527a27c0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200415T220257Z
