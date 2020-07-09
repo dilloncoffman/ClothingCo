@@ -10,6 +10,7 @@ C:\Sitecore Installs\VisualStudioProjects\WorkingClothingCompanyDir\src\Clothing
 C:\Sitecore Installs\VisualStudioProjects\WorkingClothingCompanyDir\src\ClothingCompany.Items.Master\bin\Debug\Views\Structure\one-column.cshtml
 C:\Sitecore Installs\VisualStudioProjects\WorkingClothingCompanyDir\src\ClothingCompany.Items.Master\bin\Debug\Views\Structure\two-column.cshtml
 C:\Sitecore Installs\VisualStudioProjects\WorkingClothingCompanyDir\src\ClothingCompany.Items.Master\bin\Debug\Views\Structure\three-column.cshtml
+C:\Sitecore Installs\VisualStudioProjects\WorkingClothingCompanyDir\src\ClothingCompany.Items.Master\bin\Debug\Views\Listing\Index.cshtml
 C:\Sitecore Installs\VisualStudioProjects\WorkingClothingCompanyDir\src\ClothingCompany.Items.Master\bin\Debug\App_Config\Include\SerializationYaml.config
 C:\Sitecore Installs\VisualStudioProjects\WorkingClothingCompanyDir\src\ClothingCompany.Items.Master\bin\Debug\bin\ClothingCompany.Web.dll
 C:\Sitecore Installs\VisualStudioProjects\WorkingClothingCompanyDir\src\ClothingCompany.Items.Master\bin\Debug\bin\ClothingCompany.Web.dll.config
