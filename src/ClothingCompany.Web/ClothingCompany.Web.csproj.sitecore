@@ -13,4 +13,7 @@
   <File Include="/Views/Basic Components/PrimaryText.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{7B46C9B7-2420-42A2-B7AD-66BCBEF34CC3}</Item>
   </File>
+  <File Include="Views\Structure\header.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="">{00000000-0000-0000-0000-000000000000}</Item>
+  </File>
 </Project>

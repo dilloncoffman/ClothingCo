@@ -19,6 +19,9 @@
 </head>
 
 <body>
+    <div>
+        @Html.Sitecore().ViewRendering("~/Views/Structure/header.cshtml")
+    </div>
     <h1 class="title">@Html.Sitecore().Field("Page Title", itemObject, new { DisableWebEdit = true })</h1>
     <div>
         <p>@Html.Sitecore().Field("Primary Image", new { mh = "200" } )</p>
@@ -26,6 +29,7 @@
     <div>
         @Html.Sitecore().Placeholder("main")
     </div>
+    <div>@Html.Sitecore().ControllerRendering("Footer", "Index")</div>
         
     <script src="~/Project/js/clothingco-script.js"></script>
 </body>

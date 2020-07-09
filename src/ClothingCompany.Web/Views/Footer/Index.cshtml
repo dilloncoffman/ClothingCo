@@ -1,17 +1,31 @@
-﻿
+﻿@model ClothingCompany.Models.NavGroup
 @{
-    Layout = null;
+    var homeItem = Sitecore.Context.Database.GetItem(Sitecore.Context.Site.StartPath)
 }
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
-</head>
-<body>
-    <div> 
-    </div>
-</body>
-</html>
+    <footer>
+        <div>
+            <section class="section">
+                <div class="container">
+                    <div class="columns">
+                        <div class="column">
+                            <figure class="image is-128x128">
+                                @Html.Sitecore().Field("Logo", homeItem, new { DisableWebEdit = true })
+                            </figure>
+                        </div>
+                        @foreach (var navItem in Model.NavItems)
+                        {
+                            <div class="column">
+                                <a href="@navItem.Url">@Html.Sitecore().Field("Page Title", navItem.Item, new { DisableWebEdit = true })</a>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </section>
+            <div class="footer footer-extended">
+                <div class="content container">
+                    <p> &copy; @DateTime.Now.Year Sitecore Corporation A/S. All rights reserved. </p>
+                </div>
+            </div>
+        </div>
+    </footer>
