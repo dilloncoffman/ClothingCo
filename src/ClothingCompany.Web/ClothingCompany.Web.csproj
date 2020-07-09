@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\FooterController.cs" />
+    <Compile Include="Controllers\NavigationController.cs" />
     <Compile Include="Models\NavGroup.cs" />
     <Compile Include="Models\NavItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -70,6 +71,7 @@
     <Content Include="Views\Basic Components\Banner.cshtml" />
     <Content Include="Views\Footer\Index.cshtml" />
     <Content Include="Views\Structure\header.cshtml" />
+    <Content Include="Views\Navigation\Index.cshtml" />
     <None Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>

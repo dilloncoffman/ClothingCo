@@ -29,7 +29,15 @@ namespace ClothingCompany.Controllers
                 }).ToList();
                 return navItems;
             }
-            return View();
+
+            // populate NavGroup model itself
+            var footerLinks = new NavGroup
+            {
+                RootItem = footerFolder,
+                RootUrl = LinkManager.GetItemUrl(footerFolder),
+                NavItems = GetNavItems(footerFolder)
+            };
+            return View(footerLinks);
         }
     }
 }
