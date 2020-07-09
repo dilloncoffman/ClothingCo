@@ -72,6 +72,10 @@
     <Content Include="Views\Footer\Index.cshtml" />
     <Content Include="Views\Structure\header.cshtml" />
     <Content Include="Views\Navigation\Index.cshtml" />
+    <Content Include="Views\Basic Components\Article.cshtml" />
+    <Content Include="Views\Structure\one-column.cshtml" />
+    <Content Include="Views\Structure\two-column.cshtml" />
+    <Content Include="Views\Structure\three-column.cshtml" />
     <None Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>
